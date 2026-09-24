@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <rect width="800" height="450" rx="28" fill="#f7f8fa"/>
+  <rect x="25" y="25" width="750" height="400" rx="24" fill="#ffffff" stroke="#dbe1e8" stroke-width="3"/>
+  <g stroke="#1b2430" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="400" cy="132" r="34" fill="#b5ec78"/>
+    <path d="M400 170 L400 275"/>
+    <path d="M400 205 L325 245"/>
+    <path d="M400 205 L475 245"/>
+    <path d="M400 275 L340 350"/>
+    <path d="M400 275 L460 350"/>
+    <path d="M285 245 H325"/>
+    <path d="M475 245 H515"/>
+  </g>
+  <g fill="#1b2430">
+    <rect x="262" y="229" width="23" height="32" rx="6"/>
+    <rect x="515" y="229" width="23" height="32" rx="6"/>
+  </g>
+  <text x="400" y="395" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="28" font-weight="700" fill="#1b2430">Leg press pés altos</text>
+  <text x="400" y="420" text-anchor="middle" font-family="system-ui,Segoe UI,Arial" font-size="15" fill="#697586">Ilustração de referência</text>
+</svg>

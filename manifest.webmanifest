@@ -1,1 +1,15 @@
-{"id":"./","name":"Bit Chubb Days","short_name":"Bit Chubb","description":"Treinos A, B, C e D com progresso offline","lang":"pt-BR","start_url":"./","scope":"./","display":"standalone","background_color":"#101725","theme_color":"#141c2b","icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "id":"./",
+  "name":"Close no Shape",
+  "short_name":"Close Shape",
+  "description":"Seu treino, seu progresso, seu close.",
+  "lang":"pt-BR",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#101725",
+  "theme_color":"#141c2b",
+  "icons":[
+    {"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
